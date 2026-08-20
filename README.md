@@ -1,7 +1,7 @@
 # Kenza NAIT ATMANE
 ### Développeuse & Conceptrice Informatique — Cloud & Web
 
-Master 2 Réseaux & Télécommunications (parcours IoT) — Aix-Marseille Université.
+Master 2 Réseaux & Télécommunications (parcours IoT) Aix-Marseille Université.
 Je conçois et déploie des solutions de bout en bout : Cloud, DevOps, développement web, réseaux et cybersécurité.
 
 📫 naitatmane.kenza2003@gmail.com · 📍 Marseille, France
